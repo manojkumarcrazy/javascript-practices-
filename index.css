@@ -1,0 +1,10 @@
+#head{
+    color: yellow;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 30px;
+    font-size: 24px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: oblique;
+}
